@@ -63,12 +63,16 @@ header ul li a{
 .with-bg{
     background-image: url("images/shapes/Frame 57.jpg");
     background-size: 100% 100%;
+    background-repeat: no-repeat;
     background-position: center;
 }
 .attractive-image2{
     width: 50%;
     padding-top: 40px;
+    display: flex;
+    justify-content: center;
 }
 .attractive-image2 img{
-    width: 50%;
+    width: 55%;
+    margin: auto;
 }
