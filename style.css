@@ -92,14 +92,13 @@ header ul li a{
 }
 .recipie-card{
     display: flex;
-    justify-content: space-evenly;
 }
 .equal-divs{
     width: 25.5%;
     min-height: 600px;
     margin: auto;
     border-radius: 30px;
-    box-shadow: 2px 2px 20px 5px rgba(122, 117, 117, 0.267);
+    box-shadow: 2px 2px 30px 5px rgba(122, 117, 117, 0.247);
     padding: 20px;
 }
 .equal-divs img{
@@ -112,4 +111,21 @@ header ul li a{
 .equal-divs p{
     font-size: 18px;
     line-height: 40px;
+}
+.equal-divs-2{
+    width: 20%;
+    margin-left: 30px;
+    margin: auto;
+    padding: 70px 0;
+}
+.social-midea{
+    display: flex;
+    box-shadow: 2px 2px 30px 5px rgba(122, 117, 117, 0.329);
+    border-radius: 30px;
+    width: 80%;
+    padding-left: 5%;
+}
+.num{
+    font-size: 48;
+    font-weight: 900;
 }
