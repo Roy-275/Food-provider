@@ -27,7 +27,7 @@ header ul li a{
 
 .container{
     Width: 90%;
-    margin: 50px auto;
+    margin: 60px auto;
 }
 .flexible-section{
     display: flex;
@@ -45,7 +45,7 @@ header ul li a{
 .congrat, .name{
     color: goldenrod;
 }
-.order-food-area p, .about-us p{
+.order-food-area p, .about-us p, .recipie-description{
     color:rgb(92, 85, 85);
     font-size: larger;
     margin-bottom: 100px;
@@ -79,7 +79,14 @@ header ul li a{
 .about-us{
     margin: 3% 0 0 15%;
 }
-.about-us h1{
+.about{
     font-size: 48px;
     color: lightslategray;
+}
+
+
+.recipie-title{
+    width: 50%;
+    margin: auto;
+    text-align: center;
 }
