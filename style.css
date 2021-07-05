@@ -90,3 +90,26 @@ header ul li a{
     margin: auto;
     text-align: center;
 }
+.recipie-card{
+    display: flex;
+    justify-content: space-evenly;
+}
+.equal-divs{
+    width: 25.5%;
+    min-height: 600px;
+    margin: auto;
+    border-radius: 30px;
+    box-shadow: 2px 2px 20px 5px rgba(122, 117, 117, 0.267);
+    padding: 20px;
+}
+.equal-divs img{
+    width: 100%;
+}
+.equal-divs h1{
+    font-size: 36px;
+    font-weight: 900;
+}
+.equal-divs p{
+    font-size: 18px;
+    line-height: 40px;
+}
