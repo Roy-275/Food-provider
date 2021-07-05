@@ -45,12 +45,12 @@ header ul li a{
 .congrat, .name{
     color: goldenrod;
 }
-.order-food-area p{
+.order-food-area p, .about-us p{
     color:rgb(92, 85, 85);
     font-size: larger;
     margin-bottom: 100px;
 }
-.order-food-area a{
+.order-food-area a, .about-us a{
     color: white;
     font-weight: 800;
     text-decoration: none;
@@ -73,6 +73,13 @@ header ul li a{
     justify-content: center;
 }
 .attractive-image2 img{
-    width: 55%;
+    width: 60%;
     margin: auto;
+}
+.about-us{
+    margin: 3% 0 0 15%;
+}
+.about-us h1{
+    font-size: 48px;
+    color: lightslategray;
 }
