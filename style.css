@@ -115,7 +115,7 @@ header ul li a{
 .equal-divs-2{
     width: 39%;
     margin-left: 30px;
-    padding: 70px 0;
+    padding: 40px 0;
 }
 .social-midea{
     display: flex;
@@ -130,4 +130,15 @@ header ul li a{
 .num{
     font-size: 48;
     font-weight: 900;
+}
+a img{
+    width: 150px;
+    height: 150px;
+    margin: 10px 0;
+    margin-left: -20px;
+}
+#insta{
+    width: 100px;
+    height: 100px;
+    margin: 30px 0 35px 0;
 }
